@@ -1,4 +1,4 @@
-Açıklama:\n
+Açıklama:
 Bu proje python kullanarak şifreler oluşturur.
 
 Kururlum:
